@@ -3,4 +3,4 @@ This is a repository containing files from all the projects in the plugin course
 
 * As mentioned in the course, these projects have no documentation.
 
-Enrol now: https://www.udemy.com/course/wordpress-plugin-development/
+Enroll now: https://www.udemy.com/course/wordpress-plugin-development/
